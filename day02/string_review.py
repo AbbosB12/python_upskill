@@ -34,3 +34,7 @@ actual_title = "CYDEO"
 
 print(expected_title.lower() == actual_title.lower())
 
+print("---------------------------------")
+
+
+
