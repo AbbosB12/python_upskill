@@ -25,3 +25,9 @@ except SyntaxError:
     print("Exception is SyntaxError")
 except Exception:
     print("Different Exception")
+
+
+print("--------------------------------------")
+
+
+raise Exception("Program is now terminated")
