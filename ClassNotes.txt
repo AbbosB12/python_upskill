@@ -1,0 +1,23 @@
+Python Upskill Training for Java Programming
+
+Plan:
+   Day01: Python Basics, Syntax, Data Types, Decision making
+   Day02: Strings, Functions, import & from, Loops, Classes & Objects
+   Day03: Tuples, Lists, Comprehensions, Encapsulations, Inheritance, Overriding
+   Day04: Abstraction, Polymorphism, Exceptions, Sets, Dictionaries, pip Package Manager
+   Day05: PyTest & Selenium Packages, Framework
+
+List: Ordered, mutable, allows duplicates, indexed by position.
+     Use when you need to store a sequence of items and may need to modify them later.
+
+Tuple: Ordered, immutable, allows duplicates, indexed by position. Use for fixed collections of items that should not change.
+
+Set: Unordered, mutable, does not allow duplicates, not indexed. Use for collections of unique items and set operations like union/intersection.
+
+Dictionary: Unordered (insertion order preserved in Python 3.7+), mutable, keys must be unique, stores key-value pairs,
+            indexed by key. Use for mapping relationships between keys and values
+
+      my_list = [1, 2, 3]
+      my_tuple = (1, 2, 3)
+      my_set = {1, 2, 3}
+      my_dict = {'a': 1, 'b': 2}
